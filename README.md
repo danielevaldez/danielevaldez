@@ -1,5 +1,5 @@
-### Hi there 👋
-Hey there! I'm a tech-savvy bilingual software developer currently enrolled in the Tech Elevator Java bootcamp, graduating in mid-August. 
+### Hey there 👋
+I'm a tech-savvy Latino software developer currently enrolled in the Tech Elevator Java bootcamp, graduating in mid-August. 
 I'm eager to collaborate on projects with my bootcamp colleagues. Plus, I've got a track record of creating impressive programs like a command line vending machine and a mind-blowing Java-based BMI calculator. And let's not forget the server-client money transfer app I built that rivals Venmo. With a degree in Business Administration and construction experience under my belt, I'm your go-to tech wizard with a DIY twist. Let's create something extraordinary together!
 
 <!--
